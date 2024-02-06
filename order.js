@@ -17,10 +17,10 @@ const Orders = [
         paymentStatus : "Paid",
         status : "Active"
     },
-    {
-        productName: "Pencil Calligraphy",
-        productNumber: "04",
-        paymentStatus: "Paid",
-        status: "Active"
-    },
+    // {
+    //     productName: "Pencil Calligraphy",
+    //     productNumber: "04",
+    //     paymentStatus: "Paid",
+    //     status: "Active"
+    // },
 ]
